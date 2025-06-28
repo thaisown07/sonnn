@@ -1,0 +1,23 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+}
+button {
+  padding: 10px 20px;
+  background: #00ffcc;
+  color: #000;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.result {
+  margin-top: 20px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #ffd700;
+}
